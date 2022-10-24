@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #ECECEC;
+}
+div{
+    
+    margin-top: 40px;
+   
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home{
+  position: absolute;
+  width: 149px;
+  height: 36px;
+  left: 50px;
+  top: 68px;
+
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  /* identical to box height, or 90% */
+
+  text-align: center;
+  color: yellowgreen;
+}
+#zero{
+    background: #3F3B6F;
+    font-size: 90px;
+    color: #806B5D;
+    width: 120px;
+    text-align: center;
+}
+
+.button {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 65px;
+  top: 271px;
+  margin-top: 100px;
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
+.button1{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 119px;
+  top: 271px;
+  margin-top: 100px;
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
+.button2{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 173px;
+  top: 271px;
+  margin-top: 100px;
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
+
+
+.guest{
+  position: absolute;
+  width: 149px;
+  height: 36px;
+  left: 310px;
+  top: 68px;
+
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  /* identical to box height, or 90% */
+
+  text-align: center;
+
+  color: yellowgreen;
+
+}
+#zero1{
+
+    
+    background: #3F3B6F;
+    font-size: 90px;
+    color: #806B5D;
+    width: 120px;
+    text-align: center;
+
+
+
+}
+/* .dot1 {
+    position: absolute;
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+
+    background: #080001;
+    border-radius: 5px;
+    
+  
+} */
+.butto{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 320px;
+  top: 271px;
+  margin-top: 100px;
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
+.butto1{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 374px;
+  top: 271px;
+  margin-top: 100px;
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+
+}
+.butto2{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 430px;
+  top: 271px;
+  margin-top: 100px;
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+
+}
+
