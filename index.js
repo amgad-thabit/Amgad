@@ -4,6 +4,7 @@ let saveXl = document.getElementById("zero")
 let count = 0
 let count1 = 0
 
+
 function but(){
     count = count + 1
     saveEl.textContent = count
